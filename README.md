@@ -8,5 +8,8 @@ A website that will generate a random password based on given parameters
 * CSS
 * JavaScript
 
+## Website
+https://jdarville9.github.io/Password-Generator/
+
 ## Contribution
 Made with ❤️ by Joseph Darville
