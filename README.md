@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator
 
 ## Purpose
 A website that will generate a random password based on given parameters
